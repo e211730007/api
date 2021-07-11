@@ -1,0 +1,27 @@
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

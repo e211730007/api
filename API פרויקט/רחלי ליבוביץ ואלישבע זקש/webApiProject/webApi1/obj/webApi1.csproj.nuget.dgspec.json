@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\webApi1\\webApi1.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\BL.csproj",
+        "projectName": "BL",
+        "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\אביגיל\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\אביגיל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\DL.csproj": {
+                "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\DL.csproj"
+              },
+              "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\DL.csproj",
+        "projectName": "DL",
+        "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\DL.csproj",
+        "packagesPath": "C:\\Users\\אביגיל\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\אביגיל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\אביגיל\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\אביגיל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\webApi1\\webApi1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\webApi1\\webApi1.csproj",
+        "projectName": "webApi1",
+        "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\webApi1\\webApi1.csproj",
+        "packagesPath": "C:\\Users\\אביגיל\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\webApi1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\אביגיל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\BL.csproj": {
+                "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\BL\\BL.csproj"
+              },
+              "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Users\\אלישבע\\יד חומרי לימוד\\web api\\‏‏שינוייםם מרותי לפי שלי - עדכון\\webApiProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

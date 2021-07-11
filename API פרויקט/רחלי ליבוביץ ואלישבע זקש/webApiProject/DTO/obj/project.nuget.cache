@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eqds+P4+F0FOBqUCXssxymcrqEMXzo/eCz+ZciIrwh01TWZNHwfE6LjtL+Jq8DBkNP9ds4q6FH1UOiy7wpAjwg==",
+  "success": true,
+  "projectFilePath": "M:\\API פרויקט\\יעלי ארביב ואלישבע זקש\\webApiProject\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\212045116\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\212045116\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,893 @@
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\BL.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DL.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\nlog.config
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.exe
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\lesson1.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.MvcApplicationPartsAssemblyInfo.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.Manifest.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\staticwebassets\lesson1.StaticWebAssets.xml
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\scopedcss\bundle\lesson1.styles.css
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.RazorTargetAssemblyInfo.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.csproj.CopyComplete
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache

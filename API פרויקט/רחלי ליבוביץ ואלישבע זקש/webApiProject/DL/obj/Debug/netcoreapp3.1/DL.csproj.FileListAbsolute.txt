@@ -1,0 +1,216 @@
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\משפחה\רותי\הנדסאים\webAPI\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\רותי הופמן\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\שינוייםם מרותי לפי שלי\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏שינוייםם מרותי לפי שלי - עדכון\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\חדש\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אביגיל\Downloads\jm_LpSF1w5WzEyTxZk\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+F:\טו כסלו\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+M:\web api\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+G:\רביעי ח טבת\New folder (2)\async await הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+F:\רביעי ח טבת\New folder (2)\מועדכן טו טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן כב טבת הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\מועדכן טו שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Users\אלישבע\יד חומרי לימוד\web api\הפרויקט גמור!!!\‏‏מועדכן כה שבט הפרויקט!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+M:\API פרויקט\יעלי ארביב ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
