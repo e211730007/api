@@ -1,0 +1,6 @@
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.csprojAssemblyReference.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.AssemblyInfoInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.AssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.csproj.CoreCompileInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.MvcApplicationPartsAssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\webApi1\obj\Debug\netcoreapp3.1\HeartFailure.MvcApplicationPartsAssemblyInfo.cache

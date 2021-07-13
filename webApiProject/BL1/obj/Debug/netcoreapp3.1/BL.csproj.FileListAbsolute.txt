@@ -1,0 +1,9 @@
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\bin\Debug\netcoreapp3.1\BL.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\bin\Debug\netcoreapp3.1\BL.pdb
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.dll
+M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\BL1\obj\Debug\netcoreapp3.1\BL.pdb
