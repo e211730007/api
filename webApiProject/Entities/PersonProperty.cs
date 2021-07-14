@@ -10,6 +10,6 @@ namespace Entities
         public int PropertyId { get; set; }
 
         public virtual Person Person { get; set; }
-        public virtual Property Property { get; set; }
+        public virtual Properties Property { get; set; }
     }
 }

@@ -24,24 +24,23 @@ namespace webApi1.Controllers
         }
 
         [HttpGet("{userId}")]
-        public async Task<ActionResult<Property>> getOrders(int userId)
+        public async Task<ActionResult<Properties>> getOrders(int userId)
         {
-            Property property = await _ipropertyBL.getOrders(userId);
-            if (property == null)
-                return NoContent();
-            else
-                return Ok(_mapper.Map<Property, Property>(property));
+            Properties property = await _ipropertyBL.getOrders(userId);
+                return Ok(property);
+          
         }
 
 
         // POST api/<ValuesController>
         [HttpPost]
-        public async Task<Property> Post([FromBody] Property property)
+        public async Task<Properties> Post([FromBody] Properties property)
         {
             // Property p = _mapper.Map<OrdersDTO, Orders>(order);
-            
-         //   order = _mapper.Map<Property, OrdersDTO>(o);
-            return await _ipropertyBL.Post(property)
+
+            //   order = _mapper.Map<Property, OrdersDTO>(o);
+            //return await _ipropertyBL.Post(property);
+            return null;
         }
     }
 }

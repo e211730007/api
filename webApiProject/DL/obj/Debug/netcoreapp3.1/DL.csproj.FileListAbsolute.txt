@@ -214,3 +214,15 @@ M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\
 M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
 M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
 M:\API פרויקט\רחלי ליבוביץ ואלישבע זקש\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\212045116\Source\Repos\api\webApiProject\DL\obj\Debug\netcoreapp3.1\DL.pdb

@@ -22,7 +22,6 @@ namespace Entities
         public string Password { get; set; }
 
         public virtual Role Role { get; set; }
-
         public virtual ICollection<PersonProperty> PersonProperty { get; set; }
     }
 }

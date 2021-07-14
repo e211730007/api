@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\webApi1\\HeartFailure.csproj": {}
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\webApi1\\HeartFailure.csproj": {}
   },
   "projects": {
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj": {
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj",
+        "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj",
         "packagesPath": "C:\\Users\\212045116\\.nuget\\packages\\",
-        "outputPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\obj\\",
+        "outputPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\DL.csproj": {
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\DL.csproj",
+        "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\DL.csproj",
         "packagesPath": "C:\\Users\\212045116\\.nuget\\packages\\",
-        "outputPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\obj\\",
+        "outputPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj"
+              "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\212045116\\.nuget\\packages\\",
-        "outputPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -213,14 +213,14 @@
         }
       }
     },
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\webApi1\\HeartFailure.csproj": {
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\webApi1\\HeartFailure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\webApi1\\HeartFailure.csproj",
+        "projectUniqueName": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\webApi1\\HeartFailure.csproj",
         "projectName": "HeartFailure",
-        "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\webApi1\\HeartFailure.csproj",
+        "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\webApi1\\HeartFailure.csproj",
         "packagesPath": "C:\\Users\\212045116\\.nuget\\packages\\",
-        "outputPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\webApi1\\obj\\",
+        "outputPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\webApi1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -242,14 +242,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj": {
-                "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj"
+              "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj": {
+                "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj"
               },
-              "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\DL.csproj": {
-                "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\DL\\DL.csproj"
+              "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\DL.csproj": {
+                "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\DL\\DL.csproj"
               },
-              "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj"
+              "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj"
               }
             }
           }

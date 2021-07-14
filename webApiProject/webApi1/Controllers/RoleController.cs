@@ -24,15 +24,15 @@ namespace webApi1.Controllers
         }
 
       
-        [HttpGet]
-        public async Task<List<Role>> getRole()
-        {
+        //[HttpGet]
+        //public async Task<List<Role>> getRole()
+        //{
             
-           List<Role> category = await _iroleBL.getRole(); 
-            if (category == null)
-                return null;
-            else
-                return _mapper.Map<List<Role>,List<Role>>(category);
-        }
+        //   List<Role> category = await _iroleBL.getRole(); 
+        //    if (category == null)
+        //        return null;
+        //    else
+        //        return _mapper.Map<List<Role>,List<Role>>(category);
+        //}
     }
 }

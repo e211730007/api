@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace Entities
 {
-    public partial class Property
+    public partial class Properties
     {
-        public Property()
+        public Properties()
         {
             PersonProperty = new HashSet<PersonProperty>();
         }

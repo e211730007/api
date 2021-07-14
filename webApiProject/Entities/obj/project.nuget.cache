@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gk7j67nFVGQk9aI5kN52ga1LwM4SIDs4x3xeN4/pQ9teWTPDrxuRrhizflg5FeLhsPxZUPzv3FslJYWvbAmiQ==",
+  "dgSpecHash": "Eqeu4oQUqd3rky9iOowZmQlf9g3R6BNf5i4RmuITcFrKcuVXDX0GV7uYf42dqKHukfa6MBLJsu7jKiWG72HqQw==",
   "success": true,
-  "projectFilePath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\212045116\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\212045116\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

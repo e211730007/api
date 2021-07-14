@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj": {}
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj": {}
   },
   "projects": {
-    "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj": {
+    "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\BL.csproj",
+        "projectPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\BL.csproj",
         "packagesPath": "C:\\Users\\212045116\\.nuget\\packages\\",
-        "outputPath": "M:\\API פרויקט\\רחלי ליבוביץ ואלישבע זקש\\webApiProject\\BL1\\obj\\",
+        "outputPath": "C:\\Users\\212045116\\Source\\Repos\\api\\webApiProject\\BL1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
